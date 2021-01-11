@@ -1,0 +1,10 @@
+.aside__section p {
+    margin-top: 10px;
+    padding: 10px;
+    font-style: oblique;
+    cursor: pointer;
+}
+.aside__section h1{
+    text-decoration: underline;
+    letter-spacing: 1px;
+}
