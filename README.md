@@ -1,8 +1,8 @@
 # Blog rendering using React JS
 
-## Short Summary
+## Summary
 
-This project demonstrate how we can render different components in a single page which linking to different pages.
+This project demonstrate how we can render different components in a single page instead of addding anchor tags for linking on  different pages.
 using react routing concepts.
 
 ## Technologies used
@@ -14,7 +14,7 @@ using react routing concepts.
 5. HTML
 6. CSS(Cascading Style Sheets)
 
-## Instruction
+## Instruction for starting the application
 
 1. To get started you have to clone this project in your local repository by typing :-
    ```
