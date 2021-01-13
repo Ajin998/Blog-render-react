@@ -19,7 +19,7 @@ function Header() {
           <SearchIcon style={{ fill: "#CAAB6F" }} />
         </Button>
         {/* navlinks */}
-        <a href="#">Home</a>
+        <a href="/">Home</a>
         <a href="#">About</a>
         <a href="/">Blogs</a>
       </div>
