@@ -1,3 +1,55 @@
+# Blog rendering using React JS
+
+## Short Summary
+
+This project demonstrate how we can render different components in a single page which linking to different pages.
+using react routing concepts.
+
+## Technologies used
+
+1. React Js
+2. Git
+3. Bash
+4. Javascript
+5. HTML
+6. CSS(Cascading Style Sheets)
+
+## Instruction
+
+1. To get started you have to clone this project in your local repository by typing :-
+   ```
+   $ git clone https://github.com/Ajin998/Blog-render-react.git
+   ```
+2. After cloning this project into your local repository install all the node dependencies by typing:-
+
+   ```
+   $ npm i | npm install
+   ```
+
+   <p align ="center">
+       <img src="https://user-images.githubusercontent.com/73870819/104467945-e3ec1c80-55dc-11eb-9883-5ef675a8f9b0.png" /></p>
+      <span align="center"> or </span>
+      <p align="center"> 
+       <img src="https://user-images.githubusercontent.com/73870819/104468379-64ab1880-55dd-11eb-9431-9a5e161ab749.png" />
+   </p>
+
+3. After installing all the node dependencies you will notice that a node modules and package-lock.json is automatically created in the root directory of your local repository.
+
+4. After that we are good to go to start our application by typing:-
+
+   ```
+   $ npm start
+
+   ```
+
+5. After that you will notice that your application is running at localhost 3000.
+    <details><summary><b>Preview</b></summary>
+
+    <p align="center">
+        <img src="https://user-images.githubusercontent.com/73870819/104469794-e9e2fd00-55de-11eb-9b4e-056ef33ae7d3.png"/>
+    </p>
+    </details>
+
 ## Live Demo (Site is hosted in Netlify free hosting platform)
 
 [Blog Rendering using React js](https://practical-dubinsky-059958.netlify.app/)
