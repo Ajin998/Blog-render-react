@@ -1,6 +1,6 @@
 ## Live Demo (Site is hosted in Netlify free hosting platform)
 
-[Blog Rendering using React js](https://5ffee9f0b746252724c8fbad--practical-dubinsky-059958.netlify.app/)
+[Blog Rendering using React js](https://practical-dubinsky-059958.netlify.app/)
 
 # Getting Started with Create React App
 
